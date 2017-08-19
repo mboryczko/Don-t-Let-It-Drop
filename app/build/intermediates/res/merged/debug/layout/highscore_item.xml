@@ -1,0 +1,58 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    >
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:textColor="#ffffff"
+        android:id="@+id/dateTextView"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="04-08-2017"/>
+
+    <LinearLayout
+        android:id="@+id/usernameTextView"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="10dp"
+        >
+
+        <TextView
+            android:id="@+id/usernameTexView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="majkiel"
+            android:textColor="#ffffff"
+            android:typeface="sans"
+            android:textSize="15dip"
+            android:textStyle="bold"/>
+
+
+        <TextView
+            android:id="@+id/userPointsTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:textSize="10dip"
+            android:layout_marginTop="1dip"
+            android:text="1500100900 pts" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>

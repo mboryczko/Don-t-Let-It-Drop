@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_star_white_24dp.png",
+        "source": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_star_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info_white_24dp.png",
+        "source": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_poll_white_24dp.png",
+        "source": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_poll_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_white_24dp.png",
+        "source": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_arrow_white_24dp.png",
+        "source": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_forever_white_24dp.png",
+        "source": "C:\\Users\\mjbor\\AndroidStudioProjects\\JumpProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_forever_white_24dp.png"
+    }
+]

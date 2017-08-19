@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JumpProject</string>
+
+
+    <string-array name="elements_array">
+        <item>Ball</item>
+        <item>Trap</item>
+        <item>Step</item>
+        <item>Present</item>
+
+    </string-array>
+</resources>

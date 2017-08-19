@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mjbor\.android\build-cache\5f101889081cc2cbcdb2329a7f5f6359af7204b3\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mjbor\.android\build-cache\4f646bf8a7b7106305da23df1142fb2988dabf53\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mjbor\.android\build-cache\e287f1ab43cef2209c7389d85921a3c03b66ec01\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mjbor\.android\build-cache\960dc8d8b942bba91004ec8462cd64c1b61031bb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mjbor\.android\build-cache\0b9e03ab7bdfc12526259ebe66baa5007f905b96\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mjbor\.android\build-cache\79f1a74a23167ce67c6e885c79ef94eb1d497afb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mjbor\.android\build-cache\1921184401116d155a4c336d8cdde53e0421b340\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mjbor\.android\build-cache\45b21532a21ec5ac4d55964aae32a8780c3822cb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mjbor\.android\build-cache\a90a51be9eaa45b331e9631975bece974dbf9bef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mjbor\.android\build-cache\ffa0db05b2550ad4cf66ef46948a128cf4847719\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.majkiel.jumpproject.Activities.MenuActivity
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:12:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.majkiel.jumpproject.Activities.MainActivity
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:19:19-58
+activity#com.example.majkiel.jumpproject.Activities.GameOverActivity
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:20:9-65
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:20:19-62
+activity#com.example.majkiel.jumpproject.Activities.HighScoreActivity
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:21:19-63
+activity#com.example.majkiel.jumpproject.Activities.SettingsActivity
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:22:9-65
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:22:19-62
+activity#com.example.majkiel.jumpproject.Activities.HelpActivity
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:23:19-58
+activity#com.example.majkiel.jumpproject.Activities.InfoActivity
+ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:24:9-70
+	android:name
+		ADDED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml:24:19-58
+uses-sdk
+INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mjbor\.android\build-cache\5f101889081cc2cbcdb2329a7f5f6359af7204b3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.imangazalievm:circlemenu:1.0.3] C:\Users\mjbor\.android\build-cache\07f67dc665846afbe05fe58f658aee0166fac713\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mjbor\.android\build-cache\4f646bf8a7b7106305da23df1142fb2988dabf53\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mjbor\.android\build-cache\e287f1ab43cef2209c7389d85921a3c03b66ec01\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mjbor\.android\build-cache\960dc8d8b942bba91004ec8462cd64c1b61031bb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mjbor\.android\build-cache\0b9e03ab7bdfc12526259ebe66baa5007f905b96\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mjbor\.android\build-cache\79f1a74a23167ce67c6e885c79ef94eb1d497afb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mjbor\.android\build-cache\1921184401116d155a4c336d8cdde53e0421b340\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mjbor\.android\build-cache\45b21532a21ec5ac4d55964aae32a8780c3822cb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mjbor\.android\build-cache\a90a51be9eaa45b331e9631975bece974dbf9bef\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mjbor\.android\build-cache\ffa0db05b2550ad4cf66ef46948a128cf4847719\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mjbor\.android\build-cache\4f646bf8a7b7106305da23df1142fb2988dabf53\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mjbor\AndroidStudioProjects\JumpProject\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mjbor\.android\build-cache\4f646bf8a7b7106305da23df1142fb2988dabf53\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mjbor\.android\build-cache\e287f1ab43cef2209c7389d85921a3c03b66ec01\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mjbor\.android\build-cache\960dc8d8b942bba91004ec8462cd64c1b61031bb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mjbor\.android\build-cache\0b9e03ab7bdfc12526259ebe66baa5007f905b96\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mjbor\.android\build-cache\79f1a74a23167ce67c6e885c79ef94eb1d497afb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mjbor\.android\build-cache\1921184401116d155a4c336d8cdde53e0421b340\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mjbor\.android\build-cache\45b21532a21ec5ac4d55964aae32a8780c3822cb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mjbor\.android\build-cache\a90a51be9eaa45b331e9631975bece974dbf9bef\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mjbor\.android\build-cache\ffa0db05b2550ad4cf66ef46948a128cf4847719\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mjbor\.android\build-cache\4f646bf8a7b7106305da23df1142fb2988dabf53\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mjbor\.android\build-cache\4f646bf8a7b7106305da23df1142fb2988dabf53\output\AndroidManifest.xml:26:9-47

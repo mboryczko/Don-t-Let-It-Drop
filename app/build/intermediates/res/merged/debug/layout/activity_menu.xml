@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/activity_manu"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.majkiel.jumpproject.Activities.MenuActivity">
+<!--
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/logo"
+    android:contentDescription="@string/app_name"
+    android:id="@+id/logo" />-->
+
+<Button
+    android:text="PLAY"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="12dp"
+    android:id="@+id/playButton"
+    android:textSize="18dp"
+    android:onClick="playClicked"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+
+<Button
+    android:text="HIGHSCORE"
+    android:layout_height="wrap_content"
+    android:id="@+id/highscoreButton"
+    android:layout_width="match_parent"
+    android:textSize="18dp"
+    android:onClick="highscoreClicked"
+    android:layout_below="@+id/playButton"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+
+<Button
+    android:text="SETTINGS"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="18dp"
+    android:layout_below="@+id/highscoreButton"
+    android:layout_alignLeft="@+id/playButton"
+    android:layout_alignStart="@+id/playButton"
+    android:id="@+id/settingsButton"
+    android:onClick="settingsClicked"/>
+
+    <Button
+        android:id="@+id/testId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/settingsButton"
+        android:text="HELP"
+        android:onClick="aboutClicked"/>
+
+
+</RelativeLayout>
